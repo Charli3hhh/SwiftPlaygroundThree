@@ -37,4 +37,8 @@ print(fruitNames[1])
 
 //print item at index 0
 
+print(fruitNames[0])
 
+//Problem Set 1
+
+var expensiveCarNames = [ "Zenvo ST1" , "Ferrari LaFerrari", "Pagani Huayra", "Aston Martin One-77", "Koenigsegg One", "Ferrari F60 America", "Mansory Vivere Bugatti Veyron", "W Motors Lykan Hypersport"]
