@@ -42,3 +42,17 @@ print(fruitNames[0])
 //Problem Set 1
 
 var expensiveCarNames = [ "Zenvo ST1" , "Ferrari LaFerrari", "Pagani Huayra", "Aston Martin One-77", "Koenigsegg One", "Ferrari F60 America", "Mansory Vivere Bugatti Veyron", "W Motors Lykan Hypersport"]
+
+for cars in expensiveCarNames
+{
+    print( cars + " is a very expensive car")
+}
+
+//Problem Set 2
+
+var expensiveCarPrices = [1200000, 1400000, 1400000, 1400000, 2000000, 2500000, 3400000, 3400000]
+
+for prices in expensiveCarPrices
+{
+    print(prices + 100)
+}
